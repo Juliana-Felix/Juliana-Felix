@@ -1,4 +1,4 @@
-## Oiii! Eu sou a juliana Félix
+## Oiii Eu sou a juliana Félix, desenvolvedora de software!
 
 <div align="center">
   <a href="https://github.com/julianafelix">
